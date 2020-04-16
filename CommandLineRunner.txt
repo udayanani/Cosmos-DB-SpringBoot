@@ -1,0 +1,16 @@
+Examples that have CommandLineRunner interface
+
+https://github.com/microsoft/spring-data-cosmosdb/tree/master/samplecode
+
+https://github.com/Azure-Samples/azure-cosmos-db-mongodb-spring
+
+https://github.com/microsoft/azure-spring-boot/tree/master/azure-spring-boot-samples/azure-cosmosdb-spring-boot-sample
+
+
+Examples that do not have CommandLineRunner
+
+https://github.com/jeremyrickard/spring-data-cosmosdb-example 
+
+https://github.com/microsoft/spring-todo-app
+
+https://github.com/Azure-Samples/azure-cosmosdb-springboot-pagination
